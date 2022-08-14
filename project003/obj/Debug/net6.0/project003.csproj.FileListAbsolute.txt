@@ -1,0 +1,15 @@
+D:\Пользователь\Desktop\ПРОГРАММИСТ\NEW\new_project\project003\bin\Debug\net6.0\project003.exe
+D:\Пользователь\Desktop\ПРОГРАММИСТ\NEW\new_project\project003\bin\Debug\net6.0\project003.deps.json
+D:\Пользователь\Desktop\ПРОГРАММИСТ\NEW\new_project\project003\bin\Debug\net6.0\project003.runtimeconfig.json
+D:\Пользователь\Desktop\ПРОГРАММИСТ\NEW\new_project\project003\bin\Debug\net6.0\project003.dll
+D:\Пользователь\Desktop\ПРОГРАММИСТ\NEW\new_project\project003\bin\Debug\net6.0\project003.pdb
+D:\Пользователь\Desktop\ПРОГРАММИСТ\NEW\new_project\project003\obj\Debug\net6.0\project003.csproj.AssemblyReference.cache
+D:\Пользователь\Desktop\ПРОГРАММИСТ\NEW\new_project\project003\obj\Debug\net6.0\project003.GeneratedMSBuildEditorConfig.editorconfig
+D:\Пользователь\Desktop\ПРОГРАММИСТ\NEW\new_project\project003\obj\Debug\net6.0\project003.AssemblyInfoInputs.cache
+D:\Пользователь\Desktop\ПРОГРАММИСТ\NEW\new_project\project003\obj\Debug\net6.0\project003.AssemblyInfo.cs
+D:\Пользователь\Desktop\ПРОГРАММИСТ\NEW\new_project\project003\obj\Debug\net6.0\project003.csproj.CoreCompileInputs.cache
+D:\Пользователь\Desktop\ПРОГРАММИСТ\NEW\new_project\project003\obj\Debug\net6.0\project003.dll
+D:\Пользователь\Desktop\ПРОГРАММИСТ\NEW\new_project\project003\obj\Debug\net6.0\refint\project003.dll
+D:\Пользователь\Desktop\ПРОГРАММИСТ\NEW\new_project\project003\obj\Debug\net6.0\project003.pdb
+D:\Пользователь\Desktop\ПРОГРАММИСТ\NEW\new_project\project003\obj\Debug\net6.0\project003.genruntimeconfig.cache
+D:\Пользователь\Desktop\ПРОГРАММИСТ\NEW\new_project\project003\obj\Debug\net6.0\ref\project003.dll
