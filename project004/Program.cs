@@ -51,7 +51,6 @@ int SearchAllNubersInRange(int[] array, int minRangeNumber, int maxRangeNumber)
 // [6 7 3 6] -> 36 21
 Console.WriteLine("Размерность массива:");
 int N = 10;
-int[] array = new int[N];
 
 for (int i = 0; i < array.Length; i++)
 {

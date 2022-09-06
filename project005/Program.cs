@@ -36,7 +36,7 @@ for (int i = 0; i < massive.Length; i++)
 // [3, 7, 23, 12] -> 19
 // [-4, -6, 89, 6] -> 0
 
-using static System.Console;
+
 Clear();
 Console.WriteLine($"Сумма элементов, стоящих на нечётных позициях:");
 Console.Write($"Введи количество элементов массива: ");
